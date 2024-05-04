@@ -2,8 +2,7 @@
 
 The super top secret mission to keep the players informed about the results of their matches in the light of "Silent Scoring"
 
-
-# Round 1: Roos White VS Noranda Hawks
+Round 1: Roos White VS Noranda Hawks
 T:    Roos             Noranda
 Q1:   4.6               0.0
 Q2:   11.9              1.1
@@ -14,8 +13,7 @@ Q4:   17.16             2.1
        Roos by 105 points.
 
 
-
-# Round 1: Roos White VS Cardinals Red
+Round 2: Roos White VS Cardinals Red
 T:   Roos            Cardinals
 Q1:   2.5               1.1
 Q2:   3.7               5.1
