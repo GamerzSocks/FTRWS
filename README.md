@@ -4,7 +4,7 @@ The super top secret mission to keep the players informed about the results of t
 
 
 # Round 1: Roos White VS Noranda Hawks
-      Roos            Noranda
+T:    Roos             Noranda
 Q1:   4.6               0.0
 Q2:   11.9              1.1
 Q3:   14.14             1.1
@@ -16,7 +16,7 @@ Q4:   17.16             2.1
 
 
 # Round 1: Roos White VS Cardinals Red
-      Roos            Cardinals
+T:   Roos            Cardinals
 Q1:   2.5               1.1
 Q2:   3.7               5.1
 Q3:   5.9               8.3
