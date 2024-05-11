@@ -1,4 +1,4 @@
-# Free The Roos White Scores
+# The Roos White Scores
 
 The super top secret mission to keep the players informed about the results of their matches in the light of "Silent Scoring"
 
