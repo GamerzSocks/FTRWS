@@ -20,5 +20,19 @@ Roos by 105 points.
 
 Cardinals by 15 points.
 
+## Round 3: Roos White VS Ballajura Royals
+
+| Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
+|-----------|-----|-----|----|-----|-------|
+| Roos      | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+| Royals    | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+
+Game Start: 9:00 AM
+Hamer Park
+Scores updated after every quarter.
+
+
+
+
 
 
