@@ -28,7 +28,9 @@ Cardinals by 15 points.
 | Royals    | 0.2 | 0.0 | 0.0| 0.0 | 2     |
 
 Game Start: 9:00 AM
+
 Hamer Park
+
 Scores updated after every quarter.
 
 
