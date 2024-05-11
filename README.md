@@ -24,8 +24,8 @@ Cardinals by 15 points.
 
 | Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
 |-----------|-----|-----|----|-----|-------|
-| Roos      | 0.0 | 0.0 | 0.0| 0.0 | 0     |
-| Royals    | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+| Roos      | 1.0 | 0.0 | 0.0| 0.0 | 6     |
+| Royals    | 0.2 | 0.0 | 0.0| 0.0 | 2     |
 
 Game Start: 9:00 AM
 Hamer Park
