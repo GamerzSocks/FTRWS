@@ -29,6 +29,14 @@ Cardinals by 15 points.
 
 Royals by 17 points.
 
+## Round 3: Roos White VS Ellenbrook Dockers
+
+| Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
+|-----------|-----|-----|----|-----|-------|
+| Roos      | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+| Dockers   | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+
+
 Scores updated after every quarter.
 
 
