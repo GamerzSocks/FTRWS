@@ -33,8 +33,8 @@ Royals by 17 points.
 
 | Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
 |-----------|-----|-----|----|-----|-------|
-| Roos      | 1.1 | 3.2 | 0.0| 0.0 | 20    |
-| Dockers   | 0.0 | 1.0 | 0.0| 0.0 | 6     |
+| Roos      | 1.1 | 3.2 | 5.5| 0.0 | 35    |
+| Dockers   | 0.0 | 1.0 | 2.0| 0.0 | 12    |
 
 
 Scores updated after every quarter.
