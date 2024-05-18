@@ -1,6 +1,6 @@
 # The Roos White Scores
 
-The super top secret mission to keep the players informed about the results of their matches in the light of "Silent Scoring"
+The super top secret mission to keep the people informed about the results.
 
 ## Round 1: Roos White VS Noranda Hawks
 
@@ -33,8 +33,10 @@ Royals by 19 points.
 
 | Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
 |-----------|-----|-----|----|-----|-------|
-| Roos      | 1.1 | 3.2 | 5.5| 0.0 | 35    |
-| Dockers   | 0.0 | 1.0 | 2.0| 0.0 | 12    |
+| Roos      | 1.1 | 3.2 | 5.5| 6.7 | 43    |
+| Dockers   | 0.0 | 1.0 | 2.0| 3.3 | 21    |
+
+Roos by 22 points.
 
 
 Scores updated after every quarter.
