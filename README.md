@@ -18,7 +18,7 @@ Roos by 105 points.
 | Roos      | 2.5 | 3.7 | 5.9| 5.12| 42    |
 | Cardinals | 1.1 | 5.1 | 8.3| 9.6 | 60    |
 
-Cardinals by 15 points.
+Cardinals by 18 points.
 
 ## Round 3: Roos White VS Ballajura Royals
 
@@ -27,7 +27,7 @@ Cardinals by 15 points.
 | Roos      | 1.0 | 1.0 | 3.4| 4.4 | 28    |
 | Royals    | 0.2 | 3.8 | 4.9| 6.11| 47    |
 
-Royals by 17 points.
+Royals by 19 points.
 
 ## Round 3: Roos White VS Ellenbrook Dockers
 
