@@ -42,11 +42,11 @@ Roos by 22 points.
 
 | Team      | Q1  | Q2  | Q3  | Q4  | FINAL |
 |-----------|-----|-----|-----|-----|-------|
-| White     | 6.4 | 11.7|12.10| 0.0 | 81    |
-| Black     | 1.1 | 1.1 | 1.1 | 0.0 | 7     |
+| White     | 6.4 | 11.7|12.10|16.10| 106   |
+| Black     | 1.1 | 1.1 | 1.1 | 2.2 | 14    |
 
 Roos Derby #1
-
+Roos White by 92 points.
 
 Scores updated after every quarter.
 
