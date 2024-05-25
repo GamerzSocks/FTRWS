@@ -45,7 +45,7 @@ Roos by 22 points.
 | White     | 0.0 | 0.0 | 0.0| 0.0 | 0     |
 | Black     | 0.0 | 0.0 | 0.0| 0.0 | 0     |
 
-Start: 9:00 AM
+Start: 9:00 AM,
 Roos Derby #1
 
 
