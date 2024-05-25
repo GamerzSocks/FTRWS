@@ -38,6 +38,16 @@ Royals by 19 points.
 
 Roos by 22 points.
 
+## Round 4: Roos White VS Roos Black
+
+| Team      | Q1  | Q2  | Q3 | Q4  | FINAL |
+|-----------|-----|-----|----|-----|-------|
+| White     | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+| Black     | 0.0 | 0.0 | 0.0| 0.0 | 0     |
+
+Start: 9:00 AM
+Roos Derby #1
+
 
 Scores updated after every quarter.
 
